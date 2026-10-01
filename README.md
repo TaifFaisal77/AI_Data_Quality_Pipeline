@@ -155,3 +155,9 @@ Possible future improvements include:
 - `AI_Data_Quality_Pipeline.ipynb` — Complete project notebook.
 - `architecture.png` — Project workflow and architecture diagram.
 - `README.md` — Project documentation.
+
+## 🙏 Acknowledgment
+
+Special thanks to the Saudi Data & AI Authority (SDAIA) and SDAIA Academy for providing this learning opportunity and supporting our development in Data and AI.
+
+**SDAIA Academy GitHub Repository:** [SDAIA Academy](https://github.com/SDAIAAcademy)
